@@ -7,9 +7,11 @@ Wizard форма для анкетирования пользователей �
 
 ## Установка
 ```
-1. composer install
-2. php artisan migrate
-3. npm install
+1. git clone https://github.com/arkadykorsakov/wizard.git
+2. cd wizard
+3. composer install
+4. php artisan migrate
+5. npm install
 ```
 
 ### Запуск
